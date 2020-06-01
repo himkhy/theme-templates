@@ -1,0 +1,1141 @@
+@charset "UTF-8";
+@font-face {
+ font-family: "Times New Roman", Times, serif;
+}
+body{
+  
+}
+img.image_block_right.wp-post-image {
+    width: 283px;
+    height: 283 !important;
+}
+img.image_block_right.wp-post-image img{
+    object-fit: cover;
+}
+.top-page .mission-vission-value li p{
+    font-family: "Kozuka Mincho Pr6N, B";
+    margin-bottom: 0;
+}
+.jp-hr .block01 .wrapbox {
+    max-width: 1180px;
+    margin: 0 auto;
+    position: relative;
+    left: -3px;
+}
+
+.jp-hr .block01 .wrapbox p.bottom {
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    clear: both;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.jp-hr .block01 .wrapbox .button a {
+    display: block;
+    width: 458px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    background: #1096DD;
+    border-radius: 5px;
+    padding: 54px 0px;
+}
+
+.jp-hr .block01 .wrapbox .button a:hover {
+    text-decoration: none;
+    background: #0c84c3;
+}
+
+.jp-hr .block01 .wrapbox .box {
+    float: left;
+    width: 30.5%;
+    margin-right: 4%;
+    text-align: center;
+    background: url(../imgs/hr_jp_box1.jpg) no-repeat top center;
+    background-size: 100%;
+    height: 377px;
+    padding: 32px 40px 28px 40px;
+}
+.jp-hr .block01 .wrapbox .box:nth-child(2){
+    /* background: url(../imgs/hr_jp_box2.jpg) no-repeat top center; */
+    /* background-size: 100%; */
+}
+.jp-hr .block01 .wrapbox .box:nth-child(3){
+    /* background: url(../imgs/hr_jp_box3.jpg) no-repeat top center; */
+    /* background-size: 100%; */
+    margin-right: 0;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.jp-hr .block01 .wrapbox .box:nth-child(4){
+    /* background: url(../imgs/hr_jp_box4.jpg) no-repeat top center; */
+    /* background-size: 100%; */
+}
+.jp-hr .block01 .wrapbox .box:nth-child(5){
+    /* background: url(../imgs/hr_jp_box5.jpg) no-repeat top center; */
+    /* background-size: 100%; */
+}
+.jp-hr .block01 .wrapbox .box:nth-child(6){
+    /* background: url(../imgs/hr_jp_box6.jpg) no-repeat top center; */
+    /* background-size: 100%; */
+    margin-right: 0;
+}
+.jp-hr .block01 .wrapbox .box p {
+    font-size: 20px;
+}
+
+.jp-hr .block01 .wrapbox .box p.title {
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: "Kozuka Mincho Pr6N, B";
+    width: 100%;
+}
+
+.jp-hr .block01 .img {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+.jp-hr .block01 .img img {
+    margin-top: 65px;
+}
+
+.jp-hr .block01 .img img.sp {
+    display: none;
+}
+
+.jp-hr .block01 h2 {
+    margin-bottom: 60px;
+    margin-top: -120px;
+    padding-top: 120px;
+}
+
+.sub-image .paragraph {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.sub-image .contact {
+    position: absolute;
+    top: 45%;
+    right: 0;
+}
+
+.sub-image .button {
+    text-align: center;
+    max-width: 495px;
+    margin: 85px auto 0 auto;
+}
+
+.sub-image .button_b {
+    position: absolute;
+    bottom: 35px;
+    width: 46px;
+    height: 46px;
+    background: #fff;
+    border-radius: 100px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.sub-image .button_b:hover {
+    opacity: 0.9;
+}
+
+.sub-image .button_b img {
+    width: 50%;
+    margin-top: 3px;
+}
+
+.sub-image .button_b a {
+    display: block;
+    line-height: 46px;
+    border-radius: 100px;
+}
+
+.sub-image .button a {
+    display: block;
+    width: 220px;
+    padding: 12px 0;
+    float: left;
+    background: #fff;
+    border-radius: 5px;
+    margin-right: 50px;
+    color: #1096DD;
+    font-size: 15px;
+}
+
+.sub-image .button a:hover {
+    text-decoration: none;
+    background: #e3eef3;
+}
+.sub-image .button:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.after:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.sub-image .button a:last-child {
+    margin-right: 0;
+}
+
+.sub-image .contact a {
+    display: block;
+    background: #1096DD;
+    color: #fff;
+    border-radius: 18px 0 0 18px;
+    padding: 27px 43px;
+    -webkit-box-shadow: -3px 6px 4px #00000029;
+            box-shadow: -3px 6px 4px #00000029;
+}
+
+.sub-image .contact a:hover {
+    text-decoration: none;
+    background: #0c84c3;
+}
+
+.sub-image .paragraph p.title {
+    font-size: 60px;
+    color: #fff;
+    line-height: 70px;
+    /* font-family: "Kozuka Mincho Pr6N, B"; */
+    font-weight: bold;
+}
+
+.page-kh-hr .sub-image .paragraph p.title,.jp-hr .sub-image .paragraph p.title {
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+.page-recruit .sub-image .paragraph p.title {
+    font-weight: normal;
+}
+
+.page-template-company-profile .sub-image .paragraph p.title {
+    text-shadow: 0 3px 6px #000000DB;
+}
+
+.sub-image .paragraph p {
+    font-size: 20px;
+    color: #fff;
+    /* font-family: "Kozuka Mincho Pr6N, B"; */
+}
+h2.title-h2{
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 25px;
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+h3.title-h3 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+h2.title-h2:after {
+    position: absolute;
+    content: "";
+    width: 115px;
+    bottom: 0;
+    height: 6px;
+    border-radius: 4px;
+    background: #1096dd;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+.jp-hr .block02{
+    max-width: 2000px;
+    background: #F4F4F4;
+    padding: 60px 0 40px 0;
+    margin: 60px auto 0 auto;
+}
+
+.jp-hr .block02 h3 br.tablet {
+    display: none;
+}
+
+
+.bg-light-gray {
+    background: no-repeat;
+    background: #F4F4F4;
+}
+
+.jp-hr.page-kh-hr .block02 .para {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.jp-hr.page-kh-hr .block02 .para br.sp {
+    display: none;
+}
+
+.jp-hr .block03 {
+    max-width: 1170px;
+    margin: 60px auto 40px auto;
+}
+
+.jp-hr.page-kh-hr  .block03 {
+    margin-bottom: 60px;
+}
+
+.jp-hr .block03 h2 {
+    /* margin-bottom: 60px; */
+    /* color: #777777; */
+}
+
+
+
+.jp-hr .block03 .box {
+    float: left;
+    width: 32.8%;
+    margin-right: 0.7%;
+    text-align: center;
+}
+
+.jp-hr .block03 .box h3 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 60px;
+    margin-bottom: 45px;
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+.jp-hr .block03 .box:last-child {
+    margin-right: 0;
+}
+.jp-hr .block02 .wrap_box{
+    max-width: 1170px;
+    margin: 50px auto 0 auto;
+}
+
+.jp-hr .block02 .wrap_box .box {
+    background: url(../imgs/futjc01.jpg) no-repeat top center;
+    background-size: 100%;
+    width: 120px;
+    height: 120px;
+    padding: 15px 0px;
+    text-align: center;
+    float: left;
+    margin-right: 55px;
+    position: relative;
+    /* height: 118px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.jp-hr.page-kh-hr .block02 .wrap_box .box {
+    background: #fff !important;
+    height: auto;
+    display: inline-block;
+}
+
+.jp-hr.page-kh-hr .block02 .wrap_box .box p {
+    color: #333;
+}
+
+.jp-hr .block02 .wrap_box .box:nth-of-type(2) {
+    background: url(../imgs/futjc02.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 .wrap_box .box:nth-of-type(3) {
+    background: url(../imgs/futjc03.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 .wrap_box .box:nth-of-type(4) {
+    background: url(../imgs/futjc04.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 .wrap_box .box:nth-of-type(5) {
+    background: url(../imgs/futjc05.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 .wrap_box .box:nth-of-type(6) {
+    background: url(../imgs/futjc06.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 .wrap_box .box:nth-of-type(7) {
+    background: url(../imgs/futjc07.jpg) no-repeat top center;
+    background-size: 100%;
+}
+
+.jp-hr .block02 .wrap_box .box img {
+    margin-bottom: 15px;
+}
+
+.jp-hr .block02 .wrap_box .box p {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 0;
+    /* display: -webkit-box; */
+    display: -ms-flexbox;
+    /* display: flex; */
+    /* -webkit-box-align: center; */
+    -ms-flex-align: center;
+    /* align-items: center; */
+    /* -webkit-box-pack: center; */
+    -ms-flex-pack: center;
+    /* justify-content: center; */
+    -ms-flex-line-pack: center;
+    /* align-content: center; */
+}
+
+.page-template-KH-hr .jp-hr .block02 .wrap_box .box p {
+    height: auto;
+}
+.jp-hr .block02 .wrap_box .box:after{
+    position: absolute;
+    content: "";
+    top: 45%;
+    right: -38px;
+    width: 21px;
+    height: 18px;
+    background: url(../imgs/arrow-right.png) no-repeat top center;
+    background-size: contain;
+}
+.jp-hr .block02 .wrap_box .box:last-child:after{
+    display: none;
+}
+.jp-hr .block02 .wrap_box .box:last-child {
+    margin-right: 0;
+}
+
+.jp-hr .block03 .wrap_box .box p {
+    color: #fff;
+    margin-bottom: 0;
+    /* margin-top: 15px; */
+    background: url(../imgs/jp_hr_img02.jpg) no-repeat top center;
+    height: 240px;
+    background-size: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+.jp-hr .block03 .wrap_box .box:nth-child(2) p{
+    background: url(../imgs/jp_hr_img03.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block03 .wrap_box .box:nth-child(3) p{
+    background: url(../imgs/jp_hr_img04.jpg) no-repeat top center;
+    background-size: 100%;
+}
+.jp-hr .block02 h2 {
+    margin-bottom: 60px;
+    margin-top: -120px;
+    padding-top: 120px;
+}
+.jp-hr .block02 .wrap_box02 {
+    max-width: 1170px;
+    margin: 50px auto 0 auto;
+}
+
+.jp-hr .block02 .wrap_box02 .Price {
+    width: 415px;
+    float: left;
+    padding-left: 65px;
+    margin-bottom: 60px;
+}
+
+.jp-hr .block02 .wrap_box02 .button {
+    float: right;
+    margin-top: 55px;
+}
+
+.jp-hr .block02 .wrap_box02 .text {
+    clear: both;
+}
+
+.jp-hr .block02 .wrap_box02 .text h3 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+.jp-hr .block02 .wrap_box02 .text ul li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.jp-hr .block02 .wrap_box02 .text ul {
+    padding-left: 0;
+}
+
+.jp-hr .block02 .wrap_box02 .button a {
+    display: block;
+    background: #1096DD;
+    color: #fff;
+    width: 458px;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.jp-hr .block02 .wrap_box02 .button a:hover {
+    text-decoration: none;
+    background: #0c84c3;
+}
+.qa dl dt{
+    float: left;
+    width: 3%;
+}
+.qa dl dd{
+    float: right;
+    width: 97%;
+    margin-bottom: 0;
+}
+.kh_block01{
+    max-width: 1100px;
+    margin: 60px auto 60px auto;
+}
+
+
+.hot_block03 h2 {
+    margin-bottom: 60px;
+}
+
+.hot_block03 {
+    margin: 0 0 60px 0;
+}
+
+.recru_block02 .box {
+    float: left;
+    width: 25%;
+    padding: 0 20px;
+    text-align: center;
+    height: 265px;
+    background: #1096DD;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+
+.recru_block02 .box:nth-of-type(2) {
+    background: #0F87C6;
+}
+
+.recru_block02 .box:nth-of-type(3) {
+    background: #0C77AF;
+}
+
+.recru_block02 .box:nth-of-type(4) {
+    background: #086495;
+}
+
+.recru_block02 .box p {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.recru_block02 .wrap{
+    max-width: 1170px;
+    margin:0px auto 0px auto;
+}
+.hot_block03 .wrap{
+    max-width: 1170px;
+    margin:0px auto 0px auto;
+}
+.recru_block04 .wrap{
+    max-width: 1160px;
+    margin:0px auto 0px auto;
+}
+
+.hot_block03 .box {
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+    background: #F7F7F7;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.hot_block03 .box p {
+    font-size: 15px;
+    padding: 0px 10px;
+    line-height: 25px;
+    margin-bottom: 0;
+}
+
+.hot_block03 .box p.title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: "Kozuka Mincho Pr6N, B";
+}
+
+.hot_block03 .box p span {
+    display: block;
+    font-size: 15px;
+    opacity: 0.5;
+    margin-top: 15px;
+    font-family: "Helvetica Neue, Regular";
+}
+
+.hot_block03 .box:last-child {
+    margin-right: 0;
+}
+
+.hot_block03 .box img {
+    width: 100%;
+    margin-bottom: 30px;
+    object-fit: cover;
+}
+
+.ownership {
+    margin: 60px 0 60px 0;
+}
+
+
+.ownership .wrap{
+    max-width: 1170px;
+    margin: 0 auto 0 auto;
+}
+.ownership .wrap .box{
+    width: 100%;
+    float: left;
+    position: relative;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.ownership .wrap .box h3 {
+    color: #777777;
+    margin-bottom: 23px;
+    font-family: inherit;
+}
+
+.ownership .wrap .box img {
+    margin-bottom: 50px;
+    -webkit-box-shadow: 5px 5px 6px #00000029;
+            box-shadow: 5px 5px 6px #00000029;
+}
+
+.ownership .wrap .box .box_inn img {
+   margin-bottom: 0;
+    width: 64px;
+    border-radius: 100%;
+    border: 2px solid #c1c1c1;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #f5eeee;
+}
+
+.ownership .wrap .box .box_inn {
+    text-align: left;
+    max-width: 485px;
+    margin: 0 auto;
+}
+
+.ownership .wrap .box:nth-child(2) img {/* float: right; */}
+
+.ownership .wrap .box:after {
+    position: absolute;
+    content: "";
+    top: 6%;
+    height: 94%;
+    width: 4px;
+    background: rgba(51, 51, 51, 0.3);
+    z-index: -1;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ownership .wrap .box .right {
+    float: right;
+    width: 50%;
+    padding-left: 20px;
+    position: relative;
+}
+.ownership .wrap .box .left{
+    text-align:right;
+    width: 50%;
+    padding-right: 20px;
+    position:relative;
+}
+.ownership .wrap .box .right:after {content: "";position: absolute;left: -7px;top: 25px;width: 14px;height: 14px;background: #333;border-radius: 100px;}
+.ownership .wrap .box .left:after {content: "";position: absolute;right: -7px;top: 25px;width: 14px;height: 14px;background: #333;border-radius: 100px;}
+.ownership .wrap .box .right p.title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ownership .wrap .box .left p.title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ownership .wrap .box .right p {
+    font-size: 15px;
+}
+.ownership .wrap .box .left  p {
+    font-size: 15px;
+}
+
+.cp_block03{
+    max-width: 1170px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.cp_block03 .wrap {
+    margin-bottom: 60px;
+}
+
+.cp_block03 .wrap p span {
+    display: block;
+    color: rgba(112, 112, 112, 0.5);
+    font-size: 20px;
+}
+
+.cp_block03 .wrap .image {
+    width: 22%;
+    float: left;
+}
+
+.cp_block03 .wrap:nth-child(2) .image {
+    float: right;
+}
+
+.cp_block03 .wrap:nth-child(2) .para {
+    float: left;
+    -webkit-box-shadow: -2px 4px 3px #00000017;
+            box-shadow: -2px 4px 3px #00000017;
+    padding-top: 30px;
+}
+
+.cp_block03 .wrap:nth-child(2) {
+    /* margin-bottom: 30px; */
+}
+
+.cp_block03 .wrap .para {
+    float: right;
+    width: 74%;
+    background: #F4F4F4;
+    padding: 20px 20px 30px 20px;
+    -webkit-box-shadow: 2px 4px 3px #00000017;
+            box-shadow: 2px 4px 3px #00000017;
+    position: relative;
+}
+
+.cp_block03 .wrap .para table tr td:first-child {
+    vertical-align: text-bottom;
+    width: 70px;
+}
+
+.cp_block03 .wrap .para table tr td {
+    color: #707070;
+    line-height: 30px;
+}
+
+.cp_block03 .wrap .para:after {
+    position: absolute;
+    content: "";
+    left: -13px;
+    top: 42px;
+    width: 30px;
+    height: 30px;
+    background: #f4f4f4;
+    -webkit-transform: rotate(43deg);
+        -ms-transform: rotate(43deg);
+            transform: rotate(43deg);
+    -webkit-box-shadow: 0px 3px 4px #00000017;
+            box-shadow: 0px 3px 4px #00000017;
+    z-index: -1;
+}
+
+.cp_block03 .wrap:nth-child(2) .para:after {
+    left: inherit;
+    right: -16px;
+    -webkit-box-shadow: 3px 3px 4px #00000017;
+            box-shadow: 3px 3px 4px #00000017;
+}
+
+.cp_block03 .wrap .para p {
+    font-size: 20px;
+    text-align: left;
+    color: #707070;
+}
+
+.cp_block03 .wrap .image img {
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+
+.cp_block03 .wrap p {
+    text-align: center;
+    font-size: 34px;
+    color: #707070;
+    font-family: "Kozuka Mincho Pr6N, B";
+    margin-bottom: 0;
+}
+.cp_block03 .img {
+    /* height: 190px; */
+    background: #1096DD;
+    margin: 0 0 60px 0;
+}
+
+.cp_block03 .img img {
+    width: 100%;
+}
+
+.bread {
+    max-width: 1170px;
+    margin: 0 auto 0 auto;
+}
+
+.bread p {
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.bread p span.spac {
+    margin: 0 5px;
+}
+
+.bread p span.sp {
+    display: none;
+}
+
+.bread ul {
+    padding-left: 0;
+    margin-bottom: 40px;
+}
+.bread ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+}
+
+ul.contact li a{
+    padding: 0 !important;
+    margin: 0;
+    display: block;
+    line-height: 30px;
+    width: 164px;
+    text-align: center;
+}
+.top-page{
+    max-width: 2000px;
+    margin: 100px auto 0 auto;
+    /*background: url(../imgs/top-page.png) no-repeat top center;*/
+}
+.page-template-contact .footer-content{
+    /* display: none; */
+    padding-top: 0;
+    display:none;
+}
+
+.page-template-contact .footer-content h2, .page-template-contact .footer-content h6,  .page-template-contact .footer-content .text-center {
+    display: none;
+}
+.foot-contact{
+    background: #F4F4F4;
+}
+.foot-contact .wrap{
+    max-width: 1170px;
+    margin: 0px auto;
+    padding: 45px 0;
+}
+
+.foot-contact .wrap .box {
+    float: left;
+    width: 50%;
+}
+
+.foot-contact .wrap .box p {
+    margin-bottom: 0;
+    margin-left: 130px;
+    color: #707070;
+}
+
+.foot-contact .wrap .box a img {
+    width: 92%;
+    /* margin-top: 25px; */
+}
+.link-detail {
+    background: url(../imgs/more.png) no-repeat right center;
+    background-size: 17px;
+    padding-right: 7px;
+    padding-right: 18px;
+}
+.recruit-btn span{
+    font-size: 9px;
+    position: relative;
+    top: -2px;
+    right: -4px;
+}
+.News .news-btn span{
+    font-size: 9px;
+    position: relative;
+    top: -2px;
+    right: -11px;
+}
+.op1.hide{
+    display: none;
+}
+.foption.hover{
+    cursor: no-drop;
+    display: none;
+}
+.bg-img-mission p.hide_pc{
+    display: none;
+}
+.proposal .hide_pc{
+    display: none
+}
+.news-btn.hide_pc{
+   display: none 
+}
+nav.navbar .container {
+    padding-left: inherit !important;
+    padding-right: inherit !important;
+    max-width: 1170px !important;
+    margin: 0 auto !important;
+}
+.head_manu.rsp{
+    display: none;
+}
+.iconman {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #1096DD;
+  margin: 6px 0;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 7px);
+  -ms-transform: rotate(-45deg) translate(-9px, 7px);
+      transform: rotate(-45deg) translate(-9px, 7px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+  -webkit-transform: rotate(44deg) translate(-8px, -7px);
+  -ms-transform: rotate(44deg) translate(-8px, -7px);
+      transform: rotate(44deg) translate(-8px, -7px);
+}
+
+
+.navbar-brand:hover {
+    opacity: 0.8;
+}
+
+.navbar-expand-md .navbar-nav .nav-link:hover {
+    opacity: 0.7;
+}
+
+
+.bg-img-mission .button_b{
+    position: absolute;
+    bottom: 16px;
+    width: 46px;
+    height: 46px;
+    background: hsla(0, 0%, 0%, 0.5);
+    border-radius: 100px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-img-mission .button_b:hover {
+    opacity: 0.8;
+}
+
+.bg-img-mission .button_b a {
+    display: block;
+    line-height: 46px;
+    position: relative;
+    border-radius: 100px;
+}
+
+.bg-img-mission .button_b a img {
+    width: 50%;
+    margin-top: 3px;
+}
+.formname{
+    display: none;
+}
+.top-page .mission-vission-value .jap-mi-vi-va li{
+    padding-top: 15px;
+    /* padding-bottom: 15px; */
+}
+.top-page .mission-vission-value .jap-mi-vi-va li:last-child {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.top-page .mission-vission-value .jap-mi-vi-va{
+    width: 280px;
+}
+
+#missionlink {
+    margin-top: -50px;
+    padding-top: 120px;
+}
+
+.top-page .mission-vission-value {
+    margin-bottom: 60px;
+}
+.to-top{
+    position: relative;
+    max-width: 1170px;
+    margin: 0 auto;
+    /* overflow: hidden; */
+    /* z-index: 12; */
+}
+
+.to-top:hover {
+    opacity: 0.8;
+}
+footer .title-footer {
+}
+.footer-content .tele-phone,.footer-content .inquiry,.News .content-news .title-news-post{
+    font-weight: 400;
+    color: #333333;
+}
+::-webkit-input-placeholder {
+    color: rgba(112, 112, 112, 0.3);
+  
+}
+::-moz-placeholder {
+    color: rgba(112, 112, 112, 0.3);
+  
+}
+:-ms-input-placeholder {
+    color: rgba(112, 112, 112, 0.3);
+  
+}
+::-ms-input-placeholder {
+    color: rgba(112, 112, 112, 0.3);
+  
+}
+::placeholder {
+    color: rgba(112, 112, 112, 0.3);
+  
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+     color: rgba(112, 112, 112, 0.3);
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+     color: rgba(112, 112, 112, 0.3);
+}
+.list-job li:hover, .list-job-2 li:hover{
+    opacity: 0.8;
+}
+
+.list-job li:last-child:hover, .list-job-2 li:first-child:hover {
+    opacity: 1;
+}
+
+.list-job li a {
+    /* position: relative; */
+}
+#recru_id{
+    margin-top: -120px;
+    padding-top: 120px;
+}
+#cp_id{
+    margin-top: -60px;
+    padding-top: 120px;
+}
+.container-pags{
+    width: 100%;
+    background: #F8F9FA;
+}
+
+.footer-wrap{
+    width: 100%;
+    background-color: #563D7C;
+   
+    font-size: 12px
+}
+.container-footer{
+
+}
+.copyright{
+    text-align: center;
+  line-height: 45px;
+     color: #fff;
+}
+/*PC device*/
+@media screen and (max-width: 1125px) {
+
+    
+}
+/*PC device*/
+@media screen and (max-width: 1024px) {
+   
+}
+/*Tablate device*/
+@media screen and (max-width: 767px) {
+    
+}
+/*Tablate device*/
+@media screen and (max-width: 960px) {
+   
+   
+}
+/*Tablate device*/
+@media screen and (max-width: 690px) {
+   
+}
+/*phone device*/
+@media screen and (max-width: 480px) {
+    
+}
